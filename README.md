@@ -1,5 +1,5 @@
 # Optimization with Gurobi
-1 Solving a Hospital selection in a population optimization problem with Gurobi.
+1 Solving a Hospital Selection in a Population optimization problem with Gurobi.
 
 2 Solving Traveling Salesman Problem (TSP) with Gurobi using Miller-Tucker-Zemlin (MTZ) formulation.
 
