@@ -1,8 +1,14 @@
-# Optimization with Gurobi
-1 Solving a Hospital Selection in a Population optimization problem with Gurobi.
+# Optimization using Gurobi
+Hospital selection in a population and the Traveling Salesman Problem (TSP) with Miller-Tucker-Zemlin (MTZ) formulation were solved using **Gurobi.**
 
-2 Solving Traveling Salesman Problem (TSP) with Gurobi using Miller-Tucker-Zemlin (MTZ) formulation.
+### Hospital selection in a population
 
-The descriptions of the problems are detailed in their respective ipynb files.
+<a href="https://colab.research.google.com/drive/1FlbcAh4hUzKFWDxnFB2HI32SSnJhokGP?usp=sharing">
+    <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
 
-The usa35 csv file is accessible in the data folder.
+### TSP with MTZ
+
+<a href="https://colab.research.google.com/drive/1L2PkIAFZPefrR2o1-EYXX7Ug0XtJgb4q?usp=sharing">
+    <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+</a>
