@@ -4,7 +4,7 @@
     <img alt="License" src="https://img.shields.io/github/license/georgemuriithi/optim-using-gurobi.svg?color=blue&cachedrop">
 </a>
 
-Hospital selection in a population and the Traveling Salesman Problem (TSP) with Miller-Tucker-Zemlin (MTZ) formulation were solved using **Gurobi.**
+Hospital selection in a population and the Traveling Salesman Problem (TSP) with Miller-Tucker-Zemlin (MTZ) formulation are solved using **Gurobi.**
 
 ### <a href="https://github.com/georgemuriithi/optim-using-gurobi/blob/main/Hospital-Selection-Optim-Gurobi.ipynb">Hospital selection in a population</a>
 
